@@ -6,7 +6,7 @@
         <img class="Logo Logo-vue" src="./images/logo_vue.png" alt="Vue.js">
         <div class="Lead Lead-vue">{{ msg[2] }}</div>
     </div>
-    <div class="Copyright">All product names, logos, and brands are property of their respective owners.</div>
+    <div class="Copyright">All Rights reserved@AFF</div>
 </template>
 
 <script>
